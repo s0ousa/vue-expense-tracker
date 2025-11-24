@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 <template>
   <div class="mt-6">
-    <h2 class="text-lg">Adicione uma nova transação</h2>
+    <h2 class="text-lg font-semibold">Adicione uma nova transação</h2>
     <div class="divider my-1"></div>
     <form action="" class="flex flex-col gap-2">
       <fieldset class="fieldset">

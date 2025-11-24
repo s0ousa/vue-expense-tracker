@@ -6,7 +6,7 @@ import NewTransactionForm from './NewTransactionForm.vue'
 
 <template>
   <div class="my-10 mx-auto max-w-lg px-6">
-    <h1 class="text-3xl mb-4">Despesas</h1>
+    <h1 class="text-3xl mb-4 font-semibold">Despesas</h1>
 
     <BalanceResume />
     <History />
