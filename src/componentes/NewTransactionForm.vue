@@ -2,8 +2,8 @@
 <template>
   <div class="mt-6">
     <h2 class="text-lg">Adicione uma nova transação</h2>
-    <div class="divider mt-1"></div>
-    <form action="" class="flex flex-col gap-4">
+    <div class="divider my-1"></div>
+    <form action="" class="flex flex-col gap-2">
       <fieldset class="fieldset">
         <label class="fieldset-legend">O que você negociou?</label>
         <input type="text" class="input w-full" placeholder="Digite aqui" />
